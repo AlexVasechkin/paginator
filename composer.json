@@ -1,0 +1,20 @@
+{
+    "name": "avn/paginator",
+    "version": "0.1.0",
+    "description": "Paginator",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Avn\\Paginator\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Vasechkin",
+            "email": "vasechkin.alex.v@gmail.com"
+        }
+    ]
+}
